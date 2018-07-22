@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+venv
+.git
+input
+output
